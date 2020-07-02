@@ -1,0 +1,47 @@
+ body nav ul li a{
+	
+			color: #2196f3;
+			padding: 15px 30px;
+			overflow: hidden;
+			transition: 0.2s;
+ }
+
+body nav ul li a:hover{
+	color: #255784;
+			background:#2196f3;
+			box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
+			transition-delay: 1s;
+}
+h1{
+	color: #fff;
+}
+form {
+	margin-bottom: 50px;
+	margin-top: 20px;
+}
+form input {
+	background-color: black;
+	color: #fff;
+	width: 100px;
+	height: 30px;
+}
+form input select{
+	background-color: black;
+	color: #fff;
+	width: 100px;
+	height: 40px;
+}
+form a input:hover{
+	       
+			background:green;
+			
+}
+.am-link a{
+	text-decoration: none;
+	color: #fff;
+}
+.am-link a:hover{
+	background-color: #fff;
+	color: blue;
+}
+.row {margin-top: 5px;}
